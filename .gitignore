@@ -1,0 +1,16 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# others
+bin/
+tmp/
+*.sw[op]
+*.py[oc]
+*.o
+*.log
